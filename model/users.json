@@ -6,6 +6,12 @@
 	{
 		"username": "Bryce",
 		"password": "$2b$10$AsxpDnNUItq/GmwsybLSu.GwRpkDyfdW662G3DiO2Sabl7VklXVdG",
-		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkJyeWNlIiwiaWF0IjoxNjk4NDMyNzYxLCJleHAiOjE2OTg1MTkxNjF9.66fXqECeuy2kcNS-hzWUsk4tYcRr6bOg68Clm72mPRM"
+
+		"refreshToken": ""
+	},
+	{
+		"username": "Stxtic",
+		"password": "$2b$10$J9SOPqR7umbHKvjyIu65MueFs0QGLRVSmrN1mj/w3d/WBZ765uwe2",
+		"refreshToken": ""
 	}
 ]
